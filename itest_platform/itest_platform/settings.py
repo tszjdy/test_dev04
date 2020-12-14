@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'werkzeug_debugger_runserver',
     'django_extensions',
     'project_manage',
+    'case_manage',
+    'api_manage',
 ]
 
 MIDDLEWARE = [
